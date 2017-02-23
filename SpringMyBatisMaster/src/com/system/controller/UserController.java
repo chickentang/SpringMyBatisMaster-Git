@@ -1,7 +1,8 @@
-package com.panxiang.system.controller;
+package com.system.controller;
 
-import com.panxiang.system.entities.User;
-import com.panxiang.system.service.UserService;
+import com.system.entities.User;
+import com.system.service.UserService;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

@@ -1,4 +1,4 @@
-package com.panxiang.common.utils;
+package com.common.utils;
 
 /**
  * @author PanXiang

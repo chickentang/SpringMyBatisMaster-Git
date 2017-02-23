@@ -1,8 +1,9 @@
-package com.panxiang.system.service.impl;
+package com.system.service.impl;
 
-import com.panxiang.system.dao.UserDao;
-import com.panxiang.system.entities.User;
-import com.panxiang.system.service.UserService;
+import com.system.dao.UserDao;
+import com.system.entities.User;
+import com.system.service.UserService;
+
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

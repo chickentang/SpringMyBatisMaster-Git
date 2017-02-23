@@ -1,6 +1,6 @@
-package com.panxiang.system.dao;
+package com.system.dao;
 
-import com.panxiang.system.entities.User;
+import com.system.entities.User;
 
 /**
  * Created by panxiang on 2017-01-03.

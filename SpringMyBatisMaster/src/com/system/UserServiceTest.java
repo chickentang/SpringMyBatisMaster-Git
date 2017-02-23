@@ -1,9 +1,10 @@
-package system;
+package com.system;
 
-import com.panxiang.common.utils.IdWorker;
-import com.panxiang.system.entities.User;
-import com.panxiang.system.service.UserService;
-import common.SpringTestBase;
+import com.common.SpringTestBase;
+import com.common.utils.IdWorker;
+import com.system.entities.User;
+import com.system.service.UserService;
+
 import org.junit.Test;
 
 import javax.annotation.Resource;

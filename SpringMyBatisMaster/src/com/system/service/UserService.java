@@ -1,6 +1,7 @@
-package com.panxiang.system.service;
+package com.system.service;
 
-import com.panxiang.system.entities.User;
+import com.system.entities.User;
+
 import org.springframework.stereotype.Service;
 
 /**

@@ -1,4 +1,4 @@
-package com.panxiang.system.entities;
+package com.system.entities;
 
 /**
  * @author panxiang
